@@ -42,9 +42,9 @@ An AVB Device that is both an ATDECC Talker and ATDECC Listener is required to s
 |Standard|Title|Comment|
 |:-|:-|:-|
 |IEEE 802.1BA-2011|Audio Video Bridging (AVB) Systems|Identification of participating devices<br>[802.1BA](http://www.ieee802.org/1/pages/802.1ba.html)|
-|IEEE 802.1Q-2011|Incorporates IEEE 802.1Qav and IEEE 802.1Qat|[802.1Q-2014](http://www.ieee802.org/1/pages/802.1Q-2014.html)<br>802.1Qav and 802.1Qat are two of the amendments to IEEE Std 802.1Q-2005 that were rolled into IEEE Std 802.1Q-2011.|
+|IEEE 802.1Q-2011|Incorporates IEEE 802.1Qav and IEEE 802.1Qat|[802.1Q-2011](http://www.ieee802.org/1/pages/802.1Q-2011.html)<br>802.1Qav and 802.1Qat are two of the amendments to IEEE Std 802.1Q-2005 that were rolled into IEEE Std 802.1Q-2011.|
 |IEEE 802.1Qav|Forwarding and Queuing for Time-Sensitive Streams (FQTSS)|Traffic shaping for AV streams (at both stream source and AVB bridge)<br>[802.1Qav](http://www.ieee802.org/1/pages/802.1av.html) is now known as IEEE Std 802.1Q-2011 Clause 34, "Forwarding and Queuing for time-sensitive streams".|
-|IEEE 802.1Qat|Stream Reservation Protocol (SRP)|Admission control<br>[802.1Qat](http://www.ieee802.org/1/pages/802.1at.html) is now known as IEEE Std 802.1Q-2011 Clause 35, "Stream Reservation Protocol".|
+|IEEE 802.1Qat|Stream Registration Protocol (SRP)|Admission control<br>[802.1Qat](http://www.ieee802.org/1/pages/802.1at.html) is now known as IEEE Std 802.1Q-2011 Clause 35, "Stream Reservation Protocol".|
 |IEEE 802.1AS-2011|Timing and Synchronization for Time-Sensitive Applications in Bridged Local Area Networks|Timing and Synchronization for Time-Sensitive Applications <br>gPTP (Generalized Precision Time Protocol)<br>Precise synchronization<br>[802.1AS](http://www.ieee802.org/1/pages/802.1as.html)|
 |IEEE 1722-2016|Layer 2 Transport Protocol for Time Sensitive Applications in a Bridged Local Area Network|[IEEE 1722-2011](http://standards.ieee.org/findstds/standard/1722-2011.html)|
 |IEEE 1722.1-2021|Device Discovery, Enumeration, Connection Management and Control Protocol for 1722-Based Devices|[IEEE 1722.1-2021](https://standards.ieee.org/ieee/1722.1/6670/)<br>**A**VB/ **T**SN, **D**iscovery, **E**numeration, **C**onnection management, **C**ontrol(**ATDECC**)|
