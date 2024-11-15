@@ -4,7 +4,7 @@ _Note:_ this tutorial targets a Linux OS.
 
 ## Preparation
 
-Fetch the Open-AVB repository. To ease the further steps, enter your local copy
+Fetch the [Open-AVB](https://github.com/Avnu/OpenAvnu) repository. To ease the further steps, enter your local copy
 and export its path and AVB interfaces via
 ```bash
 export AVB_PATH=$(pwd)
